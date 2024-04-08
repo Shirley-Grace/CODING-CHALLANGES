@@ -1,0 +1,49 @@
+
+
+
+.heading {
+        font-family: "Rosarivo", cursive;
+        font-weight: 600;
+        font-style: italic;
+        font-size: 3rem;
+        text-align: center;
+        background-color: beige;
+              
+}
+
+#intro {
+
+    font-family: "Junge", cursive;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+ 
+}
+ .btn{
+    background-color: olivedrab;
+    text-align: center;
+}
+
+#btn1{
+    cursor: pointer;
+    background-color: rgb(9, 92, 43);
+    border: 4px solid black;
+    border-radius: 30px;
+    width: 200px;
+    height: 3rem;
+    font-size: 2rem; 
+    
+}
+#btn2{
+    cursor: pointer;
+    background-color: rgb(9, 92, 43);
+    border: 4px solid black;
+    border-radius: 30px;
+    width: 200px;
+    height: 3rem;
+    font-size: 2rem; 
+    
+}
+}
